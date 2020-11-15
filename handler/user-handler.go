@@ -45,6 +45,14 @@ func (u *UserHandler)HandleSignUp(c echo.Context) error {
 	//	log.Error(err.Error())
 	//}
 	//hash , _ := security.HashPassword(req.Password)
+	isEmail := setting.IsEmailValid(req.Email)
+	if !isEmail {
+		return c.JSON(http.StatusBadRequest, model.Response{
+			StatusCode: http.StatusBadRequest,
+			Message: "Email is in valid",
+			Data: nil,
+		})
+	}
 	hash := security.HashAndSalt([]byte(req.Password))
 	role := model.MEMBER.String()
 	userId, err := uuid.NewUUID()
