@@ -1,0 +1,50 @@
+time="2020-11-14T09:09:42.2707666+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:10:31.5753259+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="C:/Go-workspace/src/github-trending/repository/repo_impl/user-repo_impl.go" line=39
+time="2020-11-14T09:10:31.5753259+07:00" level=error msg="Người dùng đã tồn tại" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=67
+time="2020-11-14T09:10:44.3674724+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="C:/Go-workspace/src/github-trending/repository/repo_impl/user-repo_impl.go" line=39
+time="2020-11-14T09:10:44.3674724+07:00" level=error msg="Người dùng đã tồn tại" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=67
+time="2020-11-14T09:10:48.8927866+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=114
+time="2020-11-14T09:19:55.5308574+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:20:46.5884905+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:20:55.9043344+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:20:56.418179+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:20:56.9042125+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:22:42.8887093+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:23:32.3276946+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:23:53.8406896+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:29:51.6859274+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:30:27.8500072+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:32:02.1904783+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:32:19.000648+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:32:21.1064216+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:33:50.622256+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:34:02.5650783+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:39:50.1677643+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:39:59.7022361+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T09:55:33.381619+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:56:12.8167465+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T09:58:11.712245+07:00" level=error file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=115
+time="2020-11-14T10:42:32.369332+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T10:43:36.641465+07:00" level=error msg="key is of invalid type" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=80
+time="2020-11-14T10:45:35.3377692+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T10:45:46.1736727+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="C:/Go-workspace/src/github-trending/repository/repo_impl/user-repo_impl.go" line=39
+time="2020-11-14T10:45:46.1736727+07:00" level=error msg="Người dùng đã tồn tại" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=70
+time="2020-11-14T10:45:52.74424+07:00" level=error msg="key is of invalid type" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=80
+time="2020-11-14T10:49:47.5118448+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T10:50:00.6415708+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="C:/Go-workspace/src/github-trending/repository/repo_impl/user-repo_impl.go" line=39
+time="2020-11-14T10:50:00.6415708+07:00" level=error msg="Người dùng đã tồn tại" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=70
+time="2020-11-14T10:50:07.1061995+07:00" level=error msg="key is of invalid type" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=80
+time="2020-11-14T10:51:30.1297381+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T10:51:43.2619066+07:00" level=error msg="key is of invalid type" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=80
+time="2020-11-14T10:54:26.5118406+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T11:24:07.5722266+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T14:24:51.2846875+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T15:37:53.3432206+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T15:38:48.4910693+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T15:56:11.1482331+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T16:30:05.1586834+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T16:34:09.922649+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T17:26:30.5820589+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=36
+time="2020-11-14T17:31:49.2787373+07:00" level=error msg="pq: duplicate key value violates unique constraint \"users_email_key\"" file="C:/Go-workspace/src/github-trending/repository/repo_impl/user-repo_impl.go" line=39
+time="2020-11-14T17:31:49.2787373+07:00" level=error msg="Người dùng đã tồn tại" file="C:/Go-workspace/src/github-trending/handler/user-handler.go" line=71
+time="2020-11-14T20:48:49.6100253+07:00" level=error msg="sql: no rows in result set" file="C:/Go-workspace/src/github-trending/main.go" line=38
